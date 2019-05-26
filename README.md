@@ -3,6 +3,9 @@ A streetrace mod. Choose your destination by setting a waypoint, challenge nearb
 [![Watch the video](https://i2.wp.com/9to5google.com/wp-content/uploads/sites/4/2017/08/youtube_logo_dark.jpg?resize=2000%2C0&quality=82&strip=all&ssl=1)](https://youtu.be/tbg1ppBNav4?t=31)
 https://youtu.be/tbg1ppBNav4?t=31
 
+## Support
+* [Discord](https://discord.gg/rBzBN4E)
+
 ### Requirements
 * [JAM_Base](https://github.com/JustAnotherModder/JAM)
 * [JAM_Notify](https://github.com/JustAnotherModder/JAM_Notify)
