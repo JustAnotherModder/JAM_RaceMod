@@ -30,7 +30,7 @@ server_scripts {
 	-- MySQL
 	'@mysql-async/lib/MySQL.lua',
 
-	-- SafeCracker
+	-- RaceMod
 	'JAM_RaceMod/JAM_RaceMod_Config.lua',
 	'JAM_RaceMod/JAM_RaceMod_Server.lua',
 }
