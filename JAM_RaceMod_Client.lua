@@ -78,6 +78,11 @@ RegisterCommand('showJob', function(source, args)
 	end
 end)
 
+-- So, if you got this far. You're probably wondering "why is there a 'showjob' command in here?"
+-- Interesting question. Somebody was asking for help on how to make this command while I was making
+-- this mod. We where laughing about it when, 24 hours after public release, this command was still there.
+-- I decided to keep it.
+
 function JRM:SetupRace(wager)
 	if not self or not self.Started then return; end
 
